@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="602f57c7-518b-4a6c-9b55-c1677d1095d2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rgy/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rgy/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rgy/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rgy/Vote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="602f57c7-518b-4a6c-9b55-c1677d1095d2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +15,7 @@
       <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/rgy/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-92">
+            <state relative-caret-position="46">
               <caret line="2" column="41" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="41" />
             </state>
           </provider>
@@ -32,8 +24,8 @@
       <file leaf-file-name="Input.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/rgy/Input.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+            <state relative-caret-position="644">
+              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,8 +36,8 @@
       <file leaf-file-name="Vote.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/rgy/Vote.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            <state relative-caret-position="444">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -106,6 +98,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -130,7 +123,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,18 +236,18 @@
       <workItem from="1526118368415" duration="7583000" />
       <workItem from="1526130933000" duration="8548000" />
       <workItem from="1526178184065" duration="3633000" />
+      <workItem from="1526199580288" duration="734000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21544000" />
+    <option name="totallyTimeSpent" value="22278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32913387" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -267,7 +259,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -281,6 +273,7 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32913387" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,17 +283,38 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/rgy/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/com/rgy/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="46">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rgy/Input.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
           <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#107#108#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rgy/MyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rgy/Vote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rgy/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/com/rgy/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1081">
@@ -332,17 +346,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rgy/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#107#108#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rgy/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/com/rgy/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -367,17 +371,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rgy/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#107#108#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rgy/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/com/rgy/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -385,13 +379,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/rgy/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rgy/Test.java" />
     <entry file="jar://D:/JAVA/jdk1.8.0_131/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -400,20 +388,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/rgy/Detection.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/rgy/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#107#108#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/rgy/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/com/rgy/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
+        <state relative-caret-position="46">
           <caret line="2" column="41" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="41" />
         </state>
       </provider>
@@ -427,8 +405,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/rgy/Input.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        <state relative-caret-position="644">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -437,8 +415,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/rgy/Vote.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        <state relative-caret-position="444">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
